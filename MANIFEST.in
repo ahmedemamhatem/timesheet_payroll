@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include timesheet_payroll *.css
+recursive-include timesheet_payroll *.csv
+recursive-include timesheet_payroll *.html
+recursive-include timesheet_payroll *.ico
+recursive-include timesheet_payroll *.js
+recursive-include timesheet_payroll *.json
+recursive-include timesheet_payroll *.md
+recursive-include timesheet_payroll *.png
+recursive-include timesheet_payroll *.py
+recursive-include timesheet_payroll *.svg
+recursive-include timesheet_payroll *.txt
+recursive-exclude timesheet_payroll *.pyc
