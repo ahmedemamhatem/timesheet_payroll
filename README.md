@@ -1,6 +1,6 @@
 ## Timesheet Payroll
 
-timesheet-payroll
+timesheet_payroll
 
 #### License
 

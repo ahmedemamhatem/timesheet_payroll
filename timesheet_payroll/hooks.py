@@ -3,7 +3,7 @@ from . import __version__ as app_version
 app_name = "timesheet_payroll"
 app_title = "Timesheet Payroll"
 app_publisher = "Ahmed Emam"
-app_description = "timesheet-payroll"
+app_description = "timesheet_payroll"
 app_email = "ahmedemamhatem@gmail.com"
 app_license = "MIT"
 

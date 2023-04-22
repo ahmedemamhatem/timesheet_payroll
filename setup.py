@@ -9,7 +9,7 @@ from timesheet_payroll import __version__ as version
 setup(
 	name="timesheet_payroll",
 	version=version,
-	description="timesheet-payroll",
+	description="timesheet_payroll",
 	author="Ahmed Emam",
 	author_email="ahmedemamhatem@gmail.com",
 	packages=find_packages(),
